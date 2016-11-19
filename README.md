@@ -4,6 +4,10 @@ Trying to set some road to making the MAC work in the way I want it to
 
 
 1. Go to GetMacApps to get the thing u need right [here](http://www.getmacapps.com/)
+
+2. Change the default from bash to zsh
+
+3. Setup the material theme for zsh + cmder + 
    
 
 
