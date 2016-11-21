@@ -1,6 +1,6 @@
 # NewMacSetup2016
 
-Trying to set some road to making the MAC work in the way I want it to
+Trying to make a beginner guide the MAC work in the way I want it to
 
 
 1. Go to GetMacApps to get the thing u need right [here](http://www.getmacapps.com/)
@@ -43,6 +43,9 @@ Oh-My-Zsh Material theme
 
 Modify .zshrc to enable the theme with ZSH_THEME="materialshell-dark" or ZSH_THEME="materialshell-oceanic" depending on the version you want.
 Save and restart your terminal.
+
+> Themes: https://github.com/robbyrussell/oh-my-zsh/wiki/themes
+> Plugins:  https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins
    
 
 
