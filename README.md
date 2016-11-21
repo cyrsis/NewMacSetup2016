@@ -5,9 +5,36 @@ Trying to set some road to making the MAC work in the way I want it to
 
 1. Go to GetMacApps to get the thing u need right [here](http://www.getmacapps.com/)
 
-2. Change the default from bash to zsh
+2. Change the default from bash to zsh from Preference
 
-3. Setup the material theme for zsh + cmder + 
+> chsh -s /bin/zsh
+
+Check zsh version
+
+by 
+
+> zsh --version
+
+Anything newer than 5.0 should be fine
+
+Wget command not found
+
+> brew install wget
+
+install Oh My zsh
+
+> sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+
+
+3. Setup the material theme for zsh 
+
+
+To setup the prompt, you will need to have materialshell.zsh-theme and Oh-My-Zsh installed. Then follow the next steps:
+
+Oh-My-Zsh Material theme
+
+Modify .zshrc to enable the theme with ZSH_THEME="materialshell-dark" or ZSH_THEME="materialshell-oceanic" depending on the version you want.
+Save and restart your terminal.
    
 
 
