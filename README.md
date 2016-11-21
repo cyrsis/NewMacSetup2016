@@ -21,6 +21,10 @@ Wget command not found
 
 > brew install wget
 
+or with ssl
+
+> brew install wget --with-libressl
+
 install Oh My zsh
 
 > sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
