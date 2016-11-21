@@ -37,6 +37,10 @@ To setup the prompt, you will need to have materialshell.zsh-theme and Oh-My-Zsh
 
 Oh-My-Zsh Material theme
 
+> open ~/.zshrc
+
+> ZSH_THEME="materialshell-dark"
+
 Modify .zshrc to enable the theme with ZSH_THEME="materialshell-dark" or ZSH_THEME="materialshell-oceanic" depending on the version you want.
 Save and restart your terminal.
    
